@@ -6,5 +6,10 @@ print("Linha 2") # outro
 print("Linha 3")  
 print("Linha 4")
 """
+
+'''
+Um comentário
+'''
+
 print("Linha 5")
 print("Linha 6")
