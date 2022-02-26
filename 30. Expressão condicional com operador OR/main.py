@@ -12,5 +12,3 @@ g = 'Denis'
 variavel = a or b or c or d or e or f or g 
 
 print(variavel)
-
-    
